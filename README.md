@@ -1,0 +1,2 @@
+# EquivalentCurrentMethod
+等価電流法をpythonで実装
